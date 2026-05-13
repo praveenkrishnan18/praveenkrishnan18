@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Praveen Krishnan!
 
-**Data Engineer · Building scalable pipelines on Azure · Turning raw data into insights**
+**Data Engineer · Building scalable pipelines on Azure**
 
 ---
 
