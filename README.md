@@ -51,15 +51,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Real-Time Sales Pipeline](https://github.com/praveenkrishnan18/Real-TimeSalesDataPipelineSimulationwithKafka) | Kafka-powered real-time sales event ingestion and processing | Python, Kafka |
-| [Enterprise Data Lakehouse](https://github.com/praveenkrishnan18/Enterprise-Data-Lakehouse) | Lakehouse architecture with Azure ADLS, Databricks & Delta Lake | Jupyter, Azure |
-| [Portfolio Website](https://github.com/praveenkrishnan18/praveen-portfolio) | Personal portfolio showcasing data engineering work | HTML |
-
----
 
 ## 📬 Connect with me
 
