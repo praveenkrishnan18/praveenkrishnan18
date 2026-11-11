@@ -1,6 +1,6 @@
 👋 Hi there, I'm Praveen Krishnan!
-Python Backend Developer | Django | Django REST Framework | PostgreSQL
-🙋‍♂️ About Me
+Python Backend Developer | Django | Django REST Framework | PostgreSQL 
+🙋‍♂️ About Me </br>
 - 🐍 Focused on building backend applications and RESTful APIs using Python, Django, and Django REST Framework
 - 🔐 Working with JWT authentication, role-based permissions, and API security
 - 🗄️ Interested in relational database design, PostgreSQL, and Django ORM
